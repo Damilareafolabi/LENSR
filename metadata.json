@@ -1,0 +1,6 @@
+{
+  "name": "Plainly - Free Practical Learning University & 3D AR Camera",
+  "description": "Learn skills in plain English. Practice photography with a 3D virtual DSLR and AR composition overlays, discover free open-access courses automatically, and read practical zero-jargon guides.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
